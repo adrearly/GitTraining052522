@@ -12,3 +12,5 @@ Adding a line meant to be reverted
 adding new line in branch 1
 
 adding new line in branch 2
+
+adding new line from analyst desktop - 2 
